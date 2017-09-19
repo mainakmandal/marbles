@@ -3,7 +3,7 @@
 /* global __dirname */
 /*******************************************************************************
  * Copyright (c) 2015 IBM Corp.
- * Added changes to test Docker
+ * Added changes to test Docker integration
  * All rights reserved.
  *
  *******************************************************************************/
